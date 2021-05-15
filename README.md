@@ -1,4 +1,4 @@
-# SinGAN analysis with PatchMatch algotithm.
+# SinGAN analysis with PatchMatch algorithm.
 
 This repository contains a study of the creative capabilities of the SinGAN network.
 We propose a rigorous method to evaluate the image creation capabilities of a GAN using the PatchMatch algorithm.
